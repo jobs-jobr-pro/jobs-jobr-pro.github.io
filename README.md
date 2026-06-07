@@ -2,16 +2,16 @@
 
 Welcome to the centralized job repository hub index managed by [Jobr.pro](https://jobr.pro). Discover and track automated, clean job directories updated daily.
 
-**Last Updated:** Jun 07, 2026 21:52 UTC
+**Last Updated:** Jun 07, 2026 21:58 UTC
 
 ## 📁 Global Roles
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
 | **[Software Engineer Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs) |
-| **[Data Scientist Jobs](https://github.com/jobs-jobr-pro/Data-Science-Jobs)** | `26 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Data-Science-Jobs) |
-| **[Devops Engineer Jobs](https://github.com/jobs-jobr-pro/DevOps-Jobs)** | `19 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/DevOps-Jobs) |
-| **[Full Stack Developer Jobs](https://github.com/jobs-jobr-pro/Full-Stack-Development-Jobs)** | `10 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Full-Stack-Development-Jobs) |
+| **[Data Scientist Jobs](https://github.com/jobs-jobr-pro/Data-Science-Jobs)** | `24 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Data-Science-Jobs) |
+| **[Devops Engineer Jobs](https://github.com/jobs-jobr-pro/DevOps-Jobs)** | `18 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/DevOps-Jobs) |
+| **[Full Stack Developer Jobs](https://github.com/jobs-jobr-pro/Full-Stack-Development-Jobs)** | `11 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Full-Stack-Development-Jobs) |
 | **[Data Analyst Jobs](https://github.com/jobs-jobr-pro/Data-Analyst-Jobs)** | `28 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Data-Analyst-Jobs) |
 | **[Product Manager Jobs](https://github.com/jobs-jobr-pro/Product-Management-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Product-Management-Jobs) |
 | **[Frontend Developer Jobs](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs)** | `1 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs) |
