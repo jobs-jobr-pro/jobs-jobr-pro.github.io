@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="overflow-x-hidden w-full">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Jobr.pro Developer Hub - Open Source Job Directory</title>
   <meta name="description" content="A daily-updated centralized index of software engineering, data science, DevOps, and product management jobs across the US, UK, Canada, and Remote settings.">
+  <meta name="google-site-verification" content="lGkRQVo6rUTpa2SFqDzFcmf5XYRO828Ka3N-JN2EDUk" />
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -21,6 +22,10 @@
     }
   </script>
   <style>
+    html, body {
+      overflow-x: hidden;
+      width: 100%;
+    }
     .no-scrollbar::-webkit-scrollbar { display: none; }
     .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
     @keyframes revealGentle {
@@ -312,7 +317,7 @@
         &copy; 2026 Jobr.pro. All rights reserved.
       </div>
       <div>
-        Last synchronised on: Jun 7, 2026, 4:35 PM UTC
+        Last synchronised on: Jun 7, 2026, 4:52 PM UTC
       </div>
     </div>
   </footer>
@@ -387,7 +392,7 @@
       }
       return `
         <div class="relative w-10 h-10 sm:w-12 sm:h-12 shrink-0">
-          <img src="&quot;${logoUrl}&quot;" alt="${nameEscaped} logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" class="w-10 h-10 sm:w-12 sm:h-12 rounded-xl object-contain bg-gray-900 border border-gray-800 p-1" />
+          <img src="${logoUrl}" alt="${nameEscaped} logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" class="w-10 h-10 sm:w-12 sm:h-12 rounded-xl object-contain bg-gray-900 border border-gray-800 p-1" />
           <div style="display: none;" class="absolute inset-0 rounded-xl bg-gradient-to-br from-indigo-500/20 to-purple-500/20 border border-indigo-500/10 items-center justify-center text-xs sm:text-sm font-bold text-indigo-400">${getInitials(job.company?.name)}</div>
         </div>
       `;
