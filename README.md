@@ -2,7 +2,7 @@
 
 Welcome to the centralized job repository hub index managed by [Jobr.pro](https://jobr.pro). Discover and track automated, clean job directories updated daily.
 
-**Last Updated:** Jun 12, 2026 00:00 UTC
+**Last Updated:** Jun 12, 2026 06:00 UTC
 
 ## 📁 Global Roles
 
@@ -35,13 +35,13 @@ Welcome to the centralized job repository hub index managed by [Jobr.pro](https:
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
-| **[Software Engineer Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-CA)** | `42 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-CA) |
+| **[Software Engineer Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-CA)** | `46 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-CA) |
 
 ## 📁 Remote Jobs
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
 | **[Software Engineer Jobs](https://github.com/jobs-jobr-pro/Remote-Software-Engineering-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Remote-Software-Engineering-Jobs) |
-| **[Data Scientist Jobs](https://github.com/jobs-jobr-pro/Remote-Data-Science-Jobs)** | `49 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Remote-Data-Science-Jobs) |
+| **[Data Scientist Jobs](https://github.com/jobs-jobr-pro/Remote-Data-Science-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Remote-Data-Science-Jobs) |
 | **[Product Manager Jobs](https://github.com/jobs-jobr-pro/Remote-Product-Management-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Remote-Product-Management-Jobs) |
 
