@@ -2,7 +2,7 @@
 
 Welcome to the centralized job repository hub index managed by [Jobr.pro](https://jobr.pro). Discover and track automated, clean job directories updated daily.
 
-**Last Updated:** Jun 12, 2026 12:00 UTC
+**Last Updated:** Jun 12, 2026 18:00 UTC
 
 ## 📁 Global Roles
 
@@ -14,8 +14,8 @@ Welcome to the centralized job repository hub index managed by [Jobr.pro](https:
 | **[Full Stack Developer Jobs](https://github.com/jobs-jobr-pro/Full-Stack-Development-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Full-Stack-Development-Jobs) |
 | **[Data Analyst Jobs](https://github.com/jobs-jobr-pro/Data-Analyst-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Data-Analyst-Jobs) |
 | **[Product Manager Jobs](https://github.com/jobs-jobr-pro/Product-Management-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Product-Management-Jobs) |
-| **[Frontend Developer Jobs](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs)** | `16 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs) |
-| **[Backend Developer Jobs](https://github.com/jobs-jobr-pro/Backend-Development-Jobs)** | `31 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Backend-Development-Jobs) |
+| **[Frontend Developer Jobs](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs)** | `17 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs) |
+| **[Backend Developer Jobs](https://github.com/jobs-jobr-pro/Backend-Development-Jobs)** | `37 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Backend-Development-Jobs) |
 | **[Machine Learning Engineer Jobs](https://github.com/jobs-jobr-pro/Machine-Learning-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Machine-Learning-Jobs) |
 | **[Cloud Engineer Jobs](https://github.com/jobs-jobr-pro/Cloud-Engineering-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Cloud-Engineering-Jobs) |
 
@@ -35,7 +35,7 @@ Welcome to the centralized job repository hub index managed by [Jobr.pro](https:
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
-| **[Software Engineer Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-CA)** | `46 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-CA) |
+| **[Software Engineer Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-CA)** | `45 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-CA) |
 
 ## 📁 Remote Jobs
 
