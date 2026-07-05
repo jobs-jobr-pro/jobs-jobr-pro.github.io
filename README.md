@@ -2,7 +2,7 @@
 
 Welcome to the centralized job repository hub index managed by [Jobr.pro](https://jobr.pro). Discover and track automated, clean job directories updated daily.
 
-**Last Updated:** Jul 05, 2026 06:00 UTC
+**Last Updated:** Jul 05, 2026 12:00 UTC
 
 ## 📁 Global Roles
 
@@ -29,7 +29,7 @@ Welcome to the centralized job repository hub index managed by [Jobr.pro](https:
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
-| **[Software Engineer Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-UK)** | `48 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-UK) |
+| **[Software Engineer Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-UK)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs-UK) |
 
 ## 📁 Canada
 
