@@ -2,7 +2,7 @@
 
 Welcome to the centralized job repository hub index managed by [Jobr.pro](https://jobr.pro). Discover and track automated, clean job directories updated daily.
 
-**Last Updated:** Jul 23, 2026 18:00 UTC
+**Last Updated:** Jul 24, 2026 00:00 UTC
 
 ## 📁 Global Roles
 
@@ -15,7 +15,7 @@ Welcome to the centralized job repository hub index managed by [Jobr.pro](https:
 | **[Data Analyst Jobs](https://github.com/jobs-jobr-pro/Data-Analyst-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Data-Analyst-Jobs) |
 | **[Product Manager Jobs](https://github.com/jobs-jobr-pro/Product-Management-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Product-Management-Jobs) |
 | **[Frontend Developer Jobs](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs)** | `18 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs) |
-| **[Backend Developer Jobs](https://github.com/jobs-jobr-pro/Backend-Development-Jobs)** | `45 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Backend-Development-Jobs) |
+| **[Backend Developer Jobs](https://github.com/jobs-jobr-pro/Backend-Development-Jobs)** | `44 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Backend-Development-Jobs) |
 | **[Machine Learning Engineer Jobs](https://github.com/jobs-jobr-pro/Machine-Learning-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Machine-Learning-Jobs) |
 | **[Cloud Engineer Jobs](https://github.com/jobs-jobr-pro/Cloud-Engineering-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Cloud-Engineering-Jobs) |
 
