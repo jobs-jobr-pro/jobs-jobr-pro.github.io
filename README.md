@@ -2,20 +2,20 @@
 
 Welcome to the centralized job repository hub index managed by [Jobr.pro](https://jobr.pro). Discover and track automated, clean job directories updated daily.
 
-**Last Updated:** Nov 19, 2026 12:00 UTC
+**Last Updated:** Nov 19, 2026 18:00 UTC
 
 ## 📁 Global Roles
 
 | Job Collection Directory | Active Volume | GitHub Repository Link |
 | :--- | :---: | :--- |
-| **[Software Engineer Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs)** | `43 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs) |
+| **[Software Engineer Jobs](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Software-Engineering-Jobs) |
 | **[Data Scientist Jobs](https://github.com/jobs-jobr-pro/Data-Science-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Data-Science-Jobs) |
 | **[Devops Engineer Jobs](https://github.com/jobs-jobr-pro/DevOps-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/DevOps-Jobs) |
 | **[Full Stack Developer Jobs](https://github.com/jobs-jobr-pro/Full-Stack-Development-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Full-Stack-Development-Jobs) |
 | **[Data Analyst Jobs](https://github.com/jobs-jobr-pro/Data-Analyst-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Data-Analyst-Jobs) |
 | **[Product Manager Jobs](https://github.com/jobs-jobr-pro/Product-Management-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Product-Management-Jobs) |
-| **[Frontend Developer Jobs](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs)** | `10 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs) |
-| **[Backend Developer Jobs](https://github.com/jobs-jobr-pro/Backend-Development-Jobs)** | `27 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Backend-Development-Jobs) |
+| **[Frontend Developer Jobs](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs)** | `9 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Frontend-Development-Jobs) |
+| **[Backend Developer Jobs](https://github.com/jobs-jobr-pro/Backend-Development-Jobs)** | `29 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Backend-Development-Jobs) |
 | **[Machine Learning Engineer Jobs](https://github.com/jobs-jobr-pro/Machine-Learning-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Machine-Learning-Jobs) |
 | **[Cloud Engineer Jobs](https://github.com/jobs-jobr-pro/Cloud-Engineering-Jobs)** | `More than 50 open positions` | [Go to Repository →](https://github.com/jobs-jobr-pro/Cloud-Engineering-Jobs) |
 
